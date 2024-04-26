@@ -1,5 +1,5 @@
 # 👩About me
-- 👋 I am Tuyet Nhung
+- 👋 My name is Tuyet Nhung
 - 👀 I’m twenty one years old
 - 🏡 My major is Management Information Systems 
 - 🏫 I’m currently a third-year student at Da Nang University of Economics
