@@ -1,6 +1,3 @@
-![image](https://github.com/clttnhung/clttnhung/assets/124907612/7d5f2847-4930-4f29-9008-4c2438354933)
-
-
 # 👩About me
 - 👋 I am Tuyet Nhung
 - 👀 I’m twenty one years old
