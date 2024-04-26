@@ -3,10 +3,10 @@
 
 # 👩About me
 - 👋 I am Tuyet Nhung
-- 👀 My dream is to become a good person
-- 🏡 I love my family more than anything
-- 🏫 I'm a student at the University of Economics - The University of Danang
-- 🌱 My major is Management Information Systems 
+- 👀 I’m twenty one years old
+- 🏡 My major is Management Information Systems 
+- 🏫 I’m currently a third-year student at Da Nang University of Economics
+- 🌱 I hope I will get a chance that I’m the intern you’re looking for
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/clttnhung) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clttnhung) 
